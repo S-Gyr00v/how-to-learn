@@ -64,13 +64,13 @@
 .header__main-illustration{
   height: 608px;
   width: 765px;
-  background-image: url(../images/header-image.png);
-  position:absolute;
+   position:absolute;
   bottom: 0px;
   right: 0px;
   z-index: 27;
   background-size: cover;
   background-position:bottom right;
+  background-repeat: no-repeat;
 
 
 }
@@ -233,7 +233,6 @@ font-size: 36px;
 font-weight: normal;
 text-decoration: none;
 color: #2f80ed;
-position: absolute;
 top: 50%;
 right: 48px;
 }
