@@ -308,12 +308,10 @@
   width: 90%;
   display: flex;
   justify-content: space-between;
-  width: 90%;
   font-size: 18px;
   padding-top: 60px;
   padding-bottom: 40px;
-  display: flex;
-}
+ }
 
 .footer__column__content__copyright {
   flex-basis: 711px;
