@@ -70,11 +70,8 @@
   bottom: 0;
   right: 0;
   z-index: 27;
-
-  object-fit:contain;
-  object-position:right bottom;
-
-
+  object-fit: contain;
+  object-position: right bottom;
 }
 
 .header__square-pic {
@@ -200,7 +197,7 @@
 /* Четвёртый блок*/
 
 .feynman {
-  height: 890px;
+  min-height: 890px;
   background-color: #f2f2f2;
   position: relative;
   display: flex;
