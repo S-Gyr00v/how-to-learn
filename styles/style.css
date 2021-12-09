@@ -17,7 +17,7 @@
   overflow: hidden;
 }
 
-.logo__place_header {
+.logo_place_header {
   height: 32px;
   background-image: url(../images/logo_place_header.svg);
   left: 64px;
@@ -309,7 +309,7 @@
   padding-bottom: 40px;
 }
 
-.logo__place_footer {
+.logo_place_footer {
   height: 35px;
   background-image: url(../images/logo_place_footer.svg);
 }
