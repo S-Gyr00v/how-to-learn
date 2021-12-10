@@ -1,7 +1,6 @@
 .table__cell_theme_dark {
-  width: 200px;
+  max-width: 200px;
 }
-
 .table__cell__theme_dark:not(:nth-last-child(-n + 5)) {
   margin-bottom: 80px;
 }
