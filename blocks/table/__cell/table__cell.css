@@ -1,0 +1,10 @@
+@import url("_theme/table__cell_theme_dark.css");
+
+.table__cell {
+  width: 250px;
+  flex-wrap: wrap;
+}
+
+.table__cell:not(:nth-last-child(-n + 4)) {
+  margin-bottom: 60px;
+}
