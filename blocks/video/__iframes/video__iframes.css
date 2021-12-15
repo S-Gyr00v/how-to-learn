@@ -2,6 +2,6 @@
   display: flex;
 }
 
-.video__iframes .video__iframe:first-of-type {
+.video__iframe:first-of-type {
   margin-right: 20px;
 }
