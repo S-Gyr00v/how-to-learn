@@ -1,7 +1,5 @@
 .video__iframes {
   display: flex;
-  position: relative;
-  top: 50px;
 }
 
 .video__iframe:first-of-type {
